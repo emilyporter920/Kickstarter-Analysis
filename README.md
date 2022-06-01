@@ -54,7 +54,7 @@ The outcomes for the Kickstarters based on the goals set seem to follow a partic
 
 - What are some limitations of this dataset?
 
-In the box and whisker plot graph above (**Figure 3.1**) it is easily seen that the distribution of the goal and the pledged amounts have a very large range with both very large numbers and very small numbers. These visible outliers in the data do not seem to have an effect on the data analysis covered above because in the Outcomes Based on Goals the outcomes were separated into groups based on ranges of goal amounts. However, when doing future analyses, it is important to assess how these outliers may affect the data.
+In the box and whisker plot graph below (**Figure 3.1**) it is easily seen that the distribution of the goal and the pledged amounts have a very large range with both very large numbers and very small numbers. These visible outliers in the data do not seem to have an effect on the data analysis covered above because in the Outcomes Based on Goals the outcomes were separated into groups based on ranges of goal amounts. However, when doing future analyses, it is important to assess how these outliers may affect the data.
 
 ![](Resources/Limitations_Data.png)
 <div align="center"
