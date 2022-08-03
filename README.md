@@ -64,3 +64,10 @@ In the box and whisker plot graph below (**Figure 3.1**) it is easily seen that 
 - What are some other possible tables and/or graphs that we could create?
 
 A clustered column graph could be utilized to show the data, however, using this graph shows the trends over time but not as efficiently as the line graph chosen to showcase the data. A box & whisker plot graph was created to show how the data was distributed in regards to the goals and the pledged amounts. This graph was proven useful in finding the possible limitations of the data, this graph also visualizes the data so that different measures may be taken in response to the number of outliers present.
+
+## Questions
+
+* You can contact me via email or GitHub!
+
+    * Email: emilyporter920@gmail.com
+    * GitHub Profile: Emily Porter || github.com/emilyporter920 
